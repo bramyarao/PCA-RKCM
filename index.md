@@ -8,7 +8,6 @@ In this work model order reduction is proposed for the strong form <a href="http
 <br/>
 The main aim of model order reduction is to find a lower dimension approximation of a full model solution by projecting it onto a lower dimensional space. Proper Orthogonal Decomposition (POD), also known as Principal Component Analysis (PCA), is one of the most popular methods used to construct this projection operator. In this method the proper orthogonal modes of a system of equations are constructed and then these modes are truncated as required to construct the lower dimensional approximation. Model reduction for RKCM is done using a Least Squares Galerkin projection to project the over-determined system of equations. For the theory, full formulation and details of examples given below, refer to <a href="LatexFormulation/main.pdf" target="blank">this pdf</a>. The coding is done in MATLAB. 
 </div>
-
 <br/>
 ### Numerical Examples
 <div style="text-align: justify"> 
