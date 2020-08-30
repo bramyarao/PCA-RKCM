@@ -14,7 +14,6 @@ The main aim of model order reduction is to find a lower dimension approximation
 <div style="text-align: justify"> 
 Examples from elasto-dynamics are given below which show the comparison between the full model and the reduced model using 'r' number of POD modes.
 </div>
-<br/>
 
 ### Example 1: 1D Wave equation
 <div style="text-align: justify"> 
