@@ -22,7 +22,7 @@ In this simple example a single POD is enough to capture the deformation of the 
 </div>
 
 <p align="center">
-<video width="640" controls preload>
+<video width="600" controls preload>
   <source src="videos/Wave.mp4">
 </video>
 </p>
@@ -34,7 +34,7 @@ In this example, the bar is made up of two materials in either half, which have 
 </div>
 
 <p align="center">
-<video width="640" controls preload>
+<video width="600" controls preload>
   <source src="videos/Bimaterial.mp4">
 </video>
 </p>
