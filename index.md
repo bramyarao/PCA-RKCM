@@ -15,7 +15,7 @@ The main aim of model order reduction is to find a lower dimension approximation
 Examples from elasto-dynamics are given below which show the comparison between the full model and the reduced model using 'r' number of POD modes.
 <br/>
 <br/>
-Example 1: 1D Wave equation
+### Example 1: 1D Wave equation
 <br/>
 In this simple example a single POD is enough to capture the deformation of the full scale solution.
 </div>
@@ -27,7 +27,7 @@ In this simple example a single POD is enough to capture the deformation of the 
 </p>
 
 <div style="text-align: justify">
-Example 2: 1D Bi-material bar
+### Example 2: 1D Bi-material bar
 <br/>
 In this example, the bar is made up of two materials in either half, which have different modulus of elasticity. More POD modes are required in order to obtain a reduced solution which captures the deformation of the full scale solution.
 </div>
